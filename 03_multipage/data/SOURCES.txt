@@ -1,0 +1,4 @@
+bike_rental_stats.json https://raw.githubusercontent.com/streamlit/example-data/master/hello/v1/bike_rental_stats.json
+bart_stop_stats.json https://raw.githubusercontent.com/streamlit/example-data/master/hello/v1/bart_stop_stats.json
+bart_path_stats.json https://raw.githubusercontent.com/streamlit/example-data/master/hello/v1/bart_path_stats.json
+agri.csv.gz https://streamlit-demo-data.s3-us-west-2.amazonaws.com/agri.csv.gz
